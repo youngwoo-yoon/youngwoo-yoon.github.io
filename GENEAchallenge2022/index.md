@@ -8,7 +8,6 @@ We reports on the second GENEA Challenge to benchmark data-driven automatic co-s
 
 In this webpage, we share all related resources including data, codes, and results. Please see our paper (link will be available soon) for more information.
 
-
 ## Open-source materials
 
 * Data
@@ -21,11 +20,13 @@ In this webpage, we share all related resources including data, codes, and resul
   * Baselines: [Text-based baseline (Yoon et al., ICRA 2019)](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation), [Audio-based baseline (Kucherenko et al., IVA 2019)](https://github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder/tree/GENEA_2022)
 * Results
   * Subjective evaluation data: [DOI/10.5281/zenodo.6940057](https://doi.org/10.5281/zenodo.6940057)
+  * Objective evaluation data: To be updated
 * Papers
   * To be updated
 
 ## Citation
 ```
+{% raw %}
 @inproceedings{yoon2022genea,
   author={Yoon, Youngwoo and Wolfert, Pieter and Kucherenko, Taras and Viegas, Carla and Nikolov, Teodor and Tsakov, Mihail and Henter, Gustav Eje},
   title={{T}he {GENEA} {C}hallenge 2022: {A} large evaluation of data-driven co-speech gesture generation},
@@ -34,6 +35,8 @@ In this webpage, we share all related resources including data, codes, and resul
   series={ICMI '22},
   year={2022}
 }
+{% endraw %}
 ```
+
 
 
