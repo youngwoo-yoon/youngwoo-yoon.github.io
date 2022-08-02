@@ -1,6 +1,6 @@
 # The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation
 
-Youngwoo Yoon*, Pieter Wolfert*, Taras Kucherenko*, Carla Viegas, Teodor Nikolov, Mihail Tsakov, Gustav Eje Henter
+Youngwoo Yoon\*, Pieter Wolfert\*, Taras Kucherenko\*, Carla Viegas, Teodor Nikolov, Mihail Tsakov, Gustav Eje Henter
 
 ## Summary
 
@@ -26,17 +26,12 @@ In this webpage, we share all related resources including data, codes, and resul
 
 ## Citation
 ```
-{% raw %}
-@inproceedings{yoon2022genea,
+{% raw %}@inproceedings{yoon2022genea,
   author={Yoon, Youngwoo and Wolfert, Pieter and Kucherenko, Taras and Viegas, Carla and Nikolov, Teodor and Tsakov, Mihail and Henter, Gustav Eje},
   title={{T}he {GENEA} {C}hallenge 2022: {A} large evaluation of data-driven co-speech gesture generation},
   booktitle={Proceedings of the ACM International Conference on Multimodal Interaction},
   publisher={ACM},
   series={ICMI '22},
   year={2022}
-}
-{% endraw %}
+}{% endraw %}
 ```
-
-
-
