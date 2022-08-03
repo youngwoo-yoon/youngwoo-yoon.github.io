@@ -1,5 +1,6 @@
 ---
-title: The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation
+title: The GENEA Challenge 2022
+description: A large evaluation of data-driven co-speech gesture generation
 ---
 
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
