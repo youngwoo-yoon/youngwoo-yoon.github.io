@@ -6,7 +6,9 @@ description: A large evaluation of data-driven co-speech gesture generation
 <meta content="The GENEA Challenge 2022" property="og:title">
 <meta content="A large evaluation of data-driven co-speech gesture generation" property="og:description">
 
-[Youngwoo Yoon\*](https://sites.google.com/view/youngwoo-yoon/), [Pieter Wolfert\*](https://www.pieterwolfert.com/), [Taras Kucherenko\*](https://svito-zar.github.io/), [Carla Viegas](https://carlaviegas.info/), Teodor Nikolov, Mihail Tsakov, [Gustav Eje Henter](https://people.kth.se/~ghe/)
+[Youngwoo Yoon\*](https://sites.google.com/view/youngwoo-yoon/), [Pieter Wolfert\*](https://www.pieterwolfert.com/), [Taras Kucherenko\*](https://svito-zar.github.io/), [Carla Viegas](https://carlaviegas.info/), [Teodor Nikolov](https://teonikolov.com/), [Mihail Tsakov](https://www.linkedin.com/in/mihailtsakov/), [Gustav Eje Henter](https://people.kth.se/~ghe/)
+
+![sample video](video.gif)
 
 ## Summary
 
@@ -25,8 +27,10 @@ Please see our paper (link will be available soon) for more information, and the
   * User-study video stimuli: To be uploaded
 * Code
   * Visualization code: [github.com/TeoNikolov/genea_visualizer](https://github.com/TeoNikolov/genea_visualizer)
-  * Baselines: [Text-based baseline (Yoon et al., ICRA 2019)](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation), [Audio-based baseline (Kucherenko et al., IVA 2019)](https://github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder/tree/GENEA_2022)
   * Objective evaluation code: [github.com/genea-workshop/genea_numerical_evaluations](https://github.com/genea-workshop/genea_numerical_evaluations)
+  * Text-based baseline: [Yoon et al. (ICRA 2019)](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
+  * Audio-based baseline: [Kucherenko et al. (IVA 2019)](https://github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder/tree/GENEA_2022)
+
 * Results
   * Subjective evaluation responses, analysis, and results: [DOI 10.5281/zenodo.6940057](https://doi.org/10.5281/zenodo.6940057)
   * Objective evaluation data: To be uploaded
