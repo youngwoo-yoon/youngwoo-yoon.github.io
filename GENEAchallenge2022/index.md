@@ -27,17 +27,20 @@ Please see our paper (link will be available soon) for more information, and the
 * Data
   * Challenge dataset: To be uploaded
   * Annotation manual: To be uploaded
-  * Submitted BVH files: To be uploaded
+  * 3D coordinates of submitted motion: [10.5281/zenodo.6973297](https://doi.org/10.5281/zenodo.6973297)
+  * Submitted BVH files: [10.5281/zenodo.6977157](https://doi.org/10.5281/zenodo.6977157)
   * User-study video stimuli: To be uploaded
 * Code
   * Visualization code: [github.com/TeoNikolov/genea_visualizer](https://github.com/TeoNikolov/genea_visualizer)
   * Objective evaluation code: [github.com/genea-workshop/genea_numerical_evaluations](https://github.com/genea-workshop/genea_numerical_evaluations)
   * Text-based baseline: [Yoon et al. (ICRA 2019)](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
   * Audio-based baseline: [Kucherenko et al. (IVA 2019)](https://github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder/tree/GENEA_2022)
-
+  * Utility to trim BVH files: [trim_bvh](https://github.com/ghenter/trim_bvh)
 * Results
   * Subjective evaluation responses, analysis, and results: [DOI 10.5281/zenodo.6940057](https://doi.org/10.5281/zenodo.6940057)
-  * Objective evaluation data: To be uploaded
+  * Objective evaluation data: [10.5281/zenodo.6979991](https://doi.org/10.5281/zenodo.6979991) (FGD metric will be included later)
+
+
 * Papers
   * To be uploaded
 * Presentations
