@@ -26,19 +26,21 @@ Please see our paper (link will be available soon) for more information, and the
 
 * Data
   * Challenge dataset: To be uploaded
-  * Annotation manual: To be uploaded
-  * 3D coordinates of submitted motion: [10.5281/zenodo.6973297](https://doi.org/10.5281/zenodo.6973297)
-  * Submitted BVH files: [10.5281/zenodo.6977157](https://doi.org/10.5281/zenodo.6977157)
+  * 3D coordinates of submitted motion: [DOI 10.5281/zenodo.6973297](https://doi.org/10.5281/zenodo.6973297)
+  * Submitted BVH files: [DOI 10.5281/zenodo.6977157](https://doi.org/10.5281/zenodo.6977157)
   * User-study video stimuli: To be uploaded
+  * Annotation manual: To be uploaded
 * Code
   * Visualization code: [github.com/TeoNikolov/genea_visualizer](https://github.com/TeoNikolov/genea_visualizer)
   * Objective evaluation code: [github.com/genea-workshop/genea_numerical_evaluations](https://github.com/genea-workshop/genea_numerical_evaluations)
   * Text-based baseline: [Yoon et al. (ICRA 2019)](https://github.com/youngwoo-yoon/Co-Speech_Gesture_Generation)
   * Audio-based baseline: [Kucherenko et al. (IVA 2019)](https://github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder/tree/GENEA_2022)
+  * Code for creating attention-check videos: [create_attention_check](https://github.com/youngwoo-yoon/create_attention_check)
   * Utility to trim BVH files: [trim_bvh](https://github.com/ghenter/trim_bvh)
 * Results
   * Subjective evaluation responses, analysis, and results: [DOI 10.5281/zenodo.6940057](https://doi.org/10.5281/zenodo.6940057)
-  * Objective evaluation data: [10.5281/zenodo.6979991](https://doi.org/10.5281/zenodo.6979991) (FGD metric will be included later)
+ * Scripts to run Barnard’s test: [genea-appropriateness](https://github.com/pieterwolfert/genea-appropriateness)
+  * Objective evaluation data: [DOI 10.5281/zenodo.6979991](https://doi.org/10.5281/zenodo.6979991) (FGD metric will be included later)
 
 
 * Papers
@@ -76,6 +78,6 @@ Also consider citing the original paper about the motion data from Meta Research
 ## Contact
 
 * You can e-mail the GENEA organisers at [genea-contact@googlegroups.com](mailto:genea-contact@googlegroups.com).
-* Also see [the main GENEA website](https://genea-workshop.github.io/) for more information.
+* Also see [the main GENEA website](https://genea-workshop.github.io/) for additional information.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoungwoo-yoon.github.io%2FGENEAchallenge2022%2F&count_bg=%233D85C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
