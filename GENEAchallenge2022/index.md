@@ -41,10 +41,8 @@ Please see our paper (link will be available soon) for more information, and the
   * Subjective evaluation responses, analysis, and results: [DOI 10.5281/zenodo.6939888](https://doi.org/10.5281/zenodo.6939888)
  * Scripts to run Barnard’s test: [genea-appropriateness](https://github.com/pieterwolfert/genea-appropriateness)
   * Objective evaluation data: [DOI 10.5281/zenodo.6979990](https://doi.org/10.5281/zenodo.6979990) (FGD metric will be included later)
-
-
 * Papers
-  * To be uploaded
+  * The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [[arXiv]](https://arxiv.org/pdf/2208.10441)
 * Presentations
   * Videos to be uploaded
 
