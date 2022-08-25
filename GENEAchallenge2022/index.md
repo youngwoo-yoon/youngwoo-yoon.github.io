@@ -31,7 +31,7 @@ Please see [our paper](https://arxiv.org/pdf/2208.10441.pdf) for more informatio
   * 3D coordinates of submitted motion: [DOI 10.5281/zenodo.6973296](https://doi.org/10.5281/zenodo.6973296)
   * Submitted BVH files: [DOI 10.5281/zenodo.6976463](https://doi.org/10.5281/zenodo.6976463)
   * User-study video stimuli: [DOI 10.5281/zenodo.6997925](https://doi.org/10.5281/zenodo.6997925)
-  * Annotation manual: To be uploaded
+  * Annotation manual: if you need this - contact us
 * Code
   * Visualization code: [github.com/TeoNikolov/genea_visualizer](https://github.com/TeoNikolov/genea_visualizer)
   * Objective evaluation code: [github.com/genea-workshop/genea_numerical_evaluations](https://github.com/genea-workshop/genea_numerical_evaluations)
