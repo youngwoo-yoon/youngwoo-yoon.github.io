@@ -22,7 +22,7 @@ This webpage contains data, code, and results from the second GENEA Challenge, i
 
 The evaluation results are a revolution, and a revelation: Some synthetic conditions are rated as significantly more human-like than human motion capture. At the same time, all synthetic motion is found to be vastly less appropriate for the speech than the original motion-capture recordings.
 
-Please see our paper (link will be available soon) for more information, and the links below for the challenge data, code, and results.
+Please see [our paper](https://arxiv.org/pdf/2208.10441.pdf) for more information, and the links below for the challenge data, code, and results.
 
 ## Open-source materials
 
