@@ -39,6 +39,7 @@ Please see [our paper](https://arxiv.org/pdf/2208.10441.pdf) for more informatio
   * Audio-based baseline: [Kucherenko et al. (IVA 2019)](https://github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder/tree/GENEA_2022)
   * Code for creating attention-check videos: [create_attention_check](https://github.com/youngwoo-yoon/create_attention_check)
   * Utility to trim BVH files: [trim_bvh](https://github.com/ghenter/trim_bvh)
+  * Modified [PyMO](https://omid.al/projects/pymo/) for the challenge dataset: [Modified PyMO](https://github.com/youngwoo-yoon/PyMO)
 * Results
   * Subjective evaluation responses, analysis, and results: [DOI 10.5281/zenodo.6939888](https://doi.org/10.5281/zenodo.6939888)
   * Scripts to run Barnard’s test: [genea-appropriateness](https://github.com/pieterwolfert/genea-appropriateness)
