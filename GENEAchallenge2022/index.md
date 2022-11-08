@@ -56,8 +56,8 @@ Please see [our paper](https://arxiv.org/pdf/2208.10441.pdf) for more informatio
   * UEA Digital Humans entry to the GENEA Challenge 2022 [[OpenReview]](https://openreview.net/pdf?id=RZP6nErM2Xa)
   * GestureMaster: Graph-based Speech-driven Gesture Generation [[OpenReview]](https://openreview.net/pdf?id=PHadbLGjHRL)
   * ReCell: replicating recurrent cell for auto-regressive pose generation [[OpenReview]](https://openreview.net/pdf?id=uX86IlhiHNx)
-* Presentations
-  * Videos to be uploaded
+* Presentation videos
+  * A short summary of the GENEA Challenge 2022 [[Youtube]](https://youtu.be/4n02wXGGnd0)
 
 ## Citation
 
