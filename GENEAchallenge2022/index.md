@@ -68,7 +68,9 @@ If you use materials from this challenge, please cite our latest paper about the
   title={{T}he {GENEA} {C}hallenge 2022: {A} large evaluation of data-driven co-speech gesture generation},
   booktitle={Proceedings of the ACM International Conference on Multimodal Interaction},
   publisher={ACM},
+  pages={736--747},
   series={ICMI '22},
+  doi={10.1145/3536221.3558058},
   year={2022}
 }{% endraw %}
 ```
