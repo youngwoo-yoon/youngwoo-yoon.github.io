@@ -60,7 +60,7 @@ Please see [our paper](https://arxiv.org/pdf/2208.10441.pdf) for more informatio
   * GestureMaster: Graph-based Speech-driven Gesture Generation [[OpenReview]](https://openreview.net/pdf?id=PHadbLGjHRL)
   * ReCell: replicating recurrent cell for auto-regressive pose generation [[OpenReview]](https://openreview.net/pdf?id=uX86IlhiHNx)
 * Presentation videos
-  * A short summary of the GENEA Challenge 2022 [[Youtube]](https://youtu.be/4n02wXGGnd0)
+  * to be updated
 
 ## Citation
 
