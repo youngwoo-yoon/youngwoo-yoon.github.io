@@ -49,7 +49,7 @@ Please see [our paper](https://arxiv.org/pdf/2208.10441.pdf) for more informatio
   * Scripts to run Barnard’s test: [genea-appropriateness](https://github.com/pieterwolfert/genea-appropriateness)
   * Objective evaluation data: [DOI 10.5281/zenodo.6979990](https://doi.org/10.5281/zenodo.6979990) (FGD metric will be included later)
 * Papers and presentation videos
-  * The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [[arXiv]](https://arxiv.org/pdf/2208.10441) [[Youtube]](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=1)
+  * The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [[ACM]]([https://arxiv.org/pdf/2208.10441](https://dl.acm.org/doi/10.1145/3536221.3558058)) [[Youtube]](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=1)
   * Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 [[OpenReview]](https://openreview.net/pdf?id=fO_Q4q1dFAA) [[Youtube]](https://www.youtube.com/watch?v=zdNsj3MGpL0&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=8)
   * TransGesture: Autoregressive Gesture Generation with RNN-Transducer [[OpenReview]](https://openreview.net/pdf?id=AYMDEx97qPN) [[Youtube]](https://www.youtube.com/watch?v=3aTiuAWDUhs&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=3)
   * The IVI Lab entry to the GENEA Challenge 2022 -- A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism [[OpenReview]](https://openreview.net/pdf?id=gMTaia--AB2) [[Youtube]](https://www.youtube.com/watch?v=PNmC6mlpyQg&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=9)
