@@ -48,19 +48,18 @@ Please see [our paper](https://arxiv.org/pdf/2208.10441.pdf) for more informatio
   * Subjective evaluation responses, analysis, and results: [DOI 10.5281/zenodo.6939888](https://doi.org/10.5281/zenodo.6939888)
   * Scripts to run Barnard’s test: [genea-appropriateness](https://github.com/pieterwolfert/genea-appropriateness)
   * Objective evaluation data: [DOI 10.5281/zenodo.6979990](https://doi.org/10.5281/zenodo.6979990) (FGD metric will be included later)
-* Papers
-  * The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [[arXiv]](https://arxiv.org/pdf/2208.10441)
-  * Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 [[OpenReview]](https://openreview.net/pdf?id=fO_Q4q1dFAA)
-  * TransGesture: Autoregressive Gesture Generation with RNN-Transducer [[OpenReview]](https://openreview.net/pdf?id=AYMDEx97qPN)
-  * The IVI Lab entry to the GENEA Challenge 2022 -- A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism [[OpenReview]](https://openreview.net/pdf?id=gMTaia--AB2)
-  * Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation [[OpenReview]](https://openreview.net/pdf?id=-2HZD-e6pX7W)
-  * The DeepMotion entry to the GENEA Challenge 2022 [[OpenReview]](https://openreview.net/pdf?id=zEqdFwAPhhO)
-  * The ReprGesture entry to the GENEA Challenge 2022 [[OpenReview]](https://openreview.net/pdf?id=atWaELmguNj7)
-  * UEA Digital Humans entry to the GENEA Challenge 2022 [[OpenReview]](https://openreview.net/pdf?id=RZP6nErM2Xa)
-  * GestureMaster: Graph-based Speech-driven Gesture Generation [[OpenReview]](https://openreview.net/pdf?id=PHadbLGjHRL)
-  * ReCell: replicating recurrent cell for auto-regressive pose generation [[OpenReview]](https://openreview.net/pdf?id=uX86IlhiHNx)
-* Presentation videos
-  * to be updated
+* Papers and presentation videos
+  * The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation [[arXiv]](https://arxiv.org/pdf/2208.10441) [[Youtube]](https://www.youtube.com/watch?v=SDw70iNH6cM&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=1)
+  * Exemplar-based Stylized Gesture Generation from Speech: An Entry to the GENEA Challenge 2022 [[OpenReview]](https://openreview.net/pdf?id=fO_Q4q1dFAA) [[Youtube]](https://www.youtube.com/watch?v=zdNsj3MGpL0&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=8)
+  * TransGesture: Autoregressive Gesture Generation with RNN-Transducer [[OpenReview]](https://openreview.net/pdf?id=AYMDEx97qPN) [[Youtube]](https://www.youtube.com/watch?v=3aTiuAWDUhs&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=3)
+  * The IVI Lab entry to the GENEA Challenge 2022 -- A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism [[OpenReview]](https://openreview.net/pdf?id=gMTaia--AB2) [[Youtube]](https://www.youtube.com/watch?v=PNmC6mlpyQg&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=9)
+  * Hybrid Seq2Seq Architecture for 3D Co-Speech Gesture Generation [[OpenReview]](https://openreview.net/pdf?id=-2HZD-e6pX7W) [[Youtube]](https://www.youtube.com/watch?v=9rcBp0ezlqs&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=2)
+  * The DeepMotion entry to the GENEA Challenge 2022 [[OpenReview]](https://openreview.net/pdf?id=zEqdFwAPhhO) [[Youtube]](https://www.youtube.com/watch?v=3L9pyPv-I8M&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=10)
+  * The ReprGesture entry to the GENEA Challenge 2022 [[OpenReview]](https://openreview.net/pdf?id=atWaELmguNj7) [[Youtube]](https://www.youtube.com/watch?v=Q33arD_UsiY&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=4)
+  * UEA Digital Humans entry to the GENEA Challenge 2022 [[OpenReview]](https://openreview.net/pdf?id=RZP6nErM2Xa) [[Youtube]](https://www.youtube.com/watch?v=giVYmiglOYI&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=7)
+  * GestureMaster: Graph-based Speech-driven Gesture Generation [[OpenReview]](https://openreview.net/pdf?id=PHadbLGjHRL) [[Youtube]](https://www.youtube.com/watch?v=nwNwEGX33SA&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=6)
+  * ReCell: replicating recurrent cell for auto-regressive pose generation [[OpenReview]](https://openreview.net/pdf?id=uX86IlhiHNx) [[Youtube]](https://www.youtube.com/watch?v=ZVx_QIBR8wQ&list=PLaTrbkxf82xaNqhwVlX9LwLaKTLX-5izq&index=5)
+
 
 ## Citation
 
