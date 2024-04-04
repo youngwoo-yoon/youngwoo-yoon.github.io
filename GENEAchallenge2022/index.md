@@ -8,7 +8,7 @@ description: A large evaluation of data-driven co-speech gesture generation
 
 ### [Youngwoo Yoon\*](https://sites.google.com/view/youngwoo-yoon/), [Pieter Wolfert\*](https://www.pieterwolfert.com/), [Taras Kucherenko\*](https://svito-zar.github.io/), [Carla Viegas](https://carlaviegas.info/), [Teodor Nikolov](https://teonikolov.com/), [Mihail Tsakov](https://www.linkedin.com/in/mihailtsakov/), [Gustav Eje Henter](https://people.kth.se/~ghe/)
 
-<h3 style="text-align: center;"><a href='https://dl.acm.org/doi/10.1145/3536221.3558058'>[Challenge Paper (ICMI’22)]</a></h3>
+<h3 style="text-align: center;">[<a href='https://arxiv.org/abs/2303.08737'>Full challenge paper (ACM TOG)</a>] [<a href='https://dl.acm.org/doi/10.1145/3536221.3558058'>Initial publication (ICMI’22)</a>]</h3>
 
 <br/>
 <p align="center">
