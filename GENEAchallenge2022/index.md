@@ -8,7 +8,7 @@ description: A large evaluation of data-driven co-speech gesture generation
 
 ### [Youngwoo Yoon\*](https://sites.google.com/view/youngwoo-yoon/), [Pieter Wolfert\*](https://www.pieterwolfert.com/), [Taras Kucherenko\*](https://svito-zar.github.io/), [Carla Viegas](https://carlaviegas.info/), [Teodor Nikolov](https://teonikolov.com/), [Mihail Tsakov](https://www.linkedin.com/in/mihailtsakov/), [Gustav Eje Henter](https://people.kth.se/~ghe/)
 
-<h3 style="text-align: center;">[<a href='https://arxiv.org/abs/2303.08737'>Full challenge paper (ACM TOG)</a>] [<a href='https://dl.acm.org/doi/10.1145/3536221.3558058'>Initial publication (ICMI’22)</a>]</h3>
+<h3 style="text-align: center;">[<a href='https://dl.acm.org/doi/10.1145/3656374'>Full challenge paper (ACM TOG)</a>] [<a href='https://dl.acm.org/doi/10.1145/3536221.3558058'>Initial publication (ICMI’22)</a>]</h3>
 
 <br/>
 <p align="center">
@@ -63,17 +63,21 @@ Please see [our paper](https://arxiv.org/pdf/2208.10441.pdf) for more informatio
 
 ## Citation
 
-If you use materials from this challenge, please cite our latest paper about the challenge. Currently, that is our paper at ICMI 2022:
+If you use materials from this challenge, please cite our paper about the challenge:
 ```
-{% raw %}@inproceedings{yoon2022genea,
-  author={Yoon, Youngwoo and Wolfert, Pieter and Kucherenko, Taras and Viegas, Carla and Nikolov, Teodor and Tsakov, Mihail and Henter, Gustav Eje},
-  title={{T}he {GENEA} {C}hallenge 2022: {A} large evaluation of data-driven co-speech gesture generation},
-  booktitle={Proceedings of the ACM International Conference on Multimodal Interaction},
-  publisher={ACM},
-  pages={736--747},
-  series={ICMI '22},
-  doi={10.1145/3536221.3558058},
-  year={2022}
+{% raw %}@article{kucherenko2022evaluating,
+author = {Kucherenko*, Taras and Wolfert*, Pieter and Yoon*, Youngwoo and Viegas, Carla and Nikolov, Teodor and Tsakov, Mihail and Henter, Gustav Eje},
+title = {Evaluating Gesture Generation in a Large-scale Open Challenge: The GENEA Challenge 2022},
+year = {2024},
+issue_date = {June 2024},
+publisher = {Association for Computing Machinery},
+volume = {43},
+number = {3},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3656374},
+doi = {10.1145/3656374},
+month = {jun},
+articleno = {32},
 }{% endraw %}
 ```
 Also consider citing the original paper about the motion data from Meta Research:
