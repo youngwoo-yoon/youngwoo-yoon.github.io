@@ -65,19 +65,19 @@ Please see [our paper](https://arxiv.org/pdf/2208.10441.pdf) for more informatio
 
 If you use materials from this challenge, please cite our paper about the challenge:
 ```
-{% raw %}@article{kucherenko2022evaluating,
-author = {Kucherenko*, Taras and Wolfert*, Pieter and Yoon*, Youngwoo and Viegas, Carla and Nikolov, Teodor and Tsakov, Mihail and Henter, Gustav Eje},
-title = {Evaluating Gesture Generation in a Large-scale Open Challenge: The GENEA Challenge 2022},
-year = {2024},
-issue_date = {June 2024},
-publisher = {Association for Computing Machinery},
-volume = {43},
-number = {3},
-issn = {0730-0301},
-url = {https://doi.org/10.1145/3656374},
-doi = {10.1145/3656374},
-month = {jun},
-articleno = {32},
+{% raw %}@article{kucherenko2024evaluating,
+  author = {Kucherenko*, Taras and Wolfert*, Pieter and Yoon*, Youngwoo and Viegas, Carla and Nikolov, Teodor and Tsakov, Mihail and Henter, Gustav Eje},
+  title = {Evaluating Gesture Generation in a Large-scale Open Challenge: The GENEA Challenge 2022},
+  year = {2024},
+  issue_date = {June 2024},
+  publisher = {Association for Computing Machinery},
+  volume = {43},
+  number = {3},
+  issn = {0730-0301},
+  url = {https://doi.org/10.1145/3656374},
+  doi = {10.1145/3656374},
+  month = {jun},
+  articleno = {32},
 }{% endraw %}
 ```
 Also consider citing the original paper about the motion data from Meta Research:
