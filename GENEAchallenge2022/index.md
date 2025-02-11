@@ -1,10 +1,11 @@
 ---
-title: The GENEA Challenge 2022
-description: A large evaluation of data-driven co-speech gesture generation
+title-heading: false
 ---
 
 <meta content="The GENEA Challenge 2022" property="og:title">
 <meta content="A large evaluation of data-driven co-speech gesture generation" property="og:description">
+
+# The GENEA Challenge 2022: A large evaluation of data-driven co-speech gesture generation
 
 ### [Youngwoo Yoon\*](https://sites.google.com/view/youngwoo-yoon/), [Pieter Wolfert\*](https://www.pieterwolfert.com/), [Taras Kucherenko\*](https://svito-zar.github.io/), [Carla Viegas](https://carlaviegas.info/), [Teodor Nikolov](https://teonikolov.com/), [Mihail Tsakov](https://www.linkedin.com/in/mihailtsakov/), [Gustav Eje Henter](https://people.kth.se/~ghe/)
 
